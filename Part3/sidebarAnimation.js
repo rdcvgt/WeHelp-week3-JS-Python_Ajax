@@ -11,7 +11,6 @@ if(menuBtn){
 }
 
 
-
 if(sidebarOppend){
 	if(closeImg){
 	closeImg.addEventListener('click', () =>{
@@ -24,3 +23,4 @@ if(sidebarOppend){
 	});
 }
 }
+
